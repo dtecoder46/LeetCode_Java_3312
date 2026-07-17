@@ -5,7 +5,7 @@ public class main {
 		int[] nums = {2,3,4};
 		int[] queries = {0,2,2};
 		
-		int[][] numsPairings = new int[100][2];
+		int[][] numsPairings = new int[3][2];
 
 		int pairCount = 0; // defines the row index in the 2D array where each pair of nums should be placed in
 
@@ -13,8 +13,8 @@ public class main {
 
 		for (int indexI = 0; indexI < nums.length; indexI++) {
 			for (int indexJ = indexI + 1; indexJ < nums.length; indexJ++) {
-				numsPairings[pairCount][0] = indexI;
-				numsPairings[pairCount][1] = indexJ;
+				numsPairings[pairCount][0] = nums[indexI];
+				numsPairings[pairCount][1] = nums[indexJ];
 
 				pairCount++;
 			}
