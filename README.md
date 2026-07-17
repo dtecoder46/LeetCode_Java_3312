@@ -1,4 +1,5 @@
 # LeetCode Java Problem #3312 - Sorted GCD (Greatest Common Divisor) Pair Queries
+
 My solution to problem #3312 on LeetCode using Java
 
 ## Algorithm
@@ -18,7 +19,6 @@ My solution to problem #3312 on LeetCode using Java
 ## Combinations formula
 
 $$
-C(n,r)=
 n! \over (r! * (n - r)!)
 $$
 
