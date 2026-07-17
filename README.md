@@ -16,7 +16,7 @@ My solution to problem #3312 on LeetCode using Java
 
 ## Issue log
 
-```
+```diff
 - When I print out my 2D Array of nums pairings, I saw a lot of zeroes
 + Make sure to appropriately size your 2D array, as extra space is denoted by zeroes
 
