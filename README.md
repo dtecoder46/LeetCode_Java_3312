@@ -17,11 +17,10 @@ My solution to problem #3312 on LeetCode using Java
 
 ## Combinations formula
 
-$`C(n,r)=`$
-
-```math
+$$
+C(n,r)=
 n! \over (r! * (n - r)!)
-```
+$$
 
 n is the length of the *nums* array (number of available items to choose from)
 r = 2 (the number of items to take for each combination)
