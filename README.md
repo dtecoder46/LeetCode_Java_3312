@@ -18,7 +18,7 @@ My solution to problem #3312 on LeetCode using Java
 ## Combinations formula
 
 ```math
-C(n, r) = n! / (r! * (n - r)!)
+C(n, r) = n! \over (r! * (n - r)!)
 ```
 
 n is the length of the *nums* array (number of available items to choose from)
