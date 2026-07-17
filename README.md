@@ -23,6 +23,7 @@ n! \over (r! * (n - r)!)
 $$
 
 n is the length of the *nums* array (number of available items to choose from)
+
 r = 2 (the number of items to take for each combination)
 
 ## Issue log
