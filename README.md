@@ -43,3 +43,4 @@ r = 2 (the number of items to take for each combination)
 
 1. My Java course notes
 2. Gemma-2b via Ollama
+3. Github Markdown math: https://github.blog/news-insights/product-news/math-support-in-markdown/
